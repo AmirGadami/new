@@ -16,16 +16,8 @@ build/
 # Secrets
 .env
 
-# Notebooks
-*.ipynb
 
-# Lock files
-uv.lock
 
 # IDE
 .DS_Store
-.cursor/
-.vscode/
 
-# Setup docs (local only)
-setup/
