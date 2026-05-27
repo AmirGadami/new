@@ -17,7 +17,6 @@ build/
 .env
 
 finding_out.ipynb
-notebook.ipynb
 # IDE
 .DS_Store
 
